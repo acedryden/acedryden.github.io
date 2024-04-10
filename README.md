@@ -13,7 +13,7 @@ This project uses data modeling, engineering & analysis to create a database to 
 Role: Sole Author
 Tools: Jupyter Notebook, PostGreSQL, QuickDBD
 
-##NoSQL Challenge | https://github.com/acedryden/nosql-challenge
+## NoSQL Challenge | https://github.com/acedryden/nosql-challenge
 The purpose of this challenge is to import, clean, and analyze restaurant data to gain insights from the raw data.
 Role: Sole Author
 Tools: Jupyter Notebook, Python, NoSQL, MongoDB, Pandas
