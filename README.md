@@ -2,7 +2,7 @@
 
 ### Education 
 
-###Projects 
+### Projects 
 
 ### Work Experience 
 
