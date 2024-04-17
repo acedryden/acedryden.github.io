@@ -3,7 +3,7 @@
 
 ## Projects
 
-### [Video Games Sales Dashboard] (https://public.tableau.com/app/profile/amy.dryden/viz/VideoGameSales1980-2020_17121625471550/VideoGamesSalesDashboard)
+### [Video Games Sales Dashboard](https://public.tableau.com/app/profile/amy.dryden/viz/VideoGameSales1980-2020_17121625471550/VideoGamesSalesDashboard)
 This project utilizes Video Games sales data from 1980-2020 and creates an interactive dashboard analyzing sales across different regions, platforms, genres and time periods. 
 Role: Sole Author 
 Tools: Tableau 
