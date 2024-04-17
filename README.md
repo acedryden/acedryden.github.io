@@ -7,6 +7,7 @@
 This project utilizes Video Games sales data from 1980-2020 and creates an interactive dashboard analyzing sales across different regions, platforms, genres and time periods. 
 Role: Sole Author 
 Tools: Tableau 
+
 ![dashboard](https://github.com/acedryden/acedryden.github.io/blob/main/assets/Video%20Game%20Dashboard.jpg)
 
 ### [Ontario Education Project](https://github.com/acedryden/school_research_project)
