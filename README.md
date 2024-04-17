@@ -3,6 +3,11 @@
 
 ## Projects
 
+### [Video Games Sales Dashboard](https://public.tableau.com/app/profile/amy.dryden/viz/VideoGameSales1980-2020_17121625471550/VideoGamesSalesDashboard)
+This project utilizes Video Games sales data from 1980-2020 and creates an interactive dashboard analyzing sales across different regions, platforms, genres and time periods. 
+Role: Sole Author 
+Tools: Tableau 
+
 ### [Ontario Education Project](https://github.com/acedryden/school_research_project)
 The purpose of this project is to analyze and visualize data on Ontario’s Public and Catholic Schools to explore enrollment and graduation rates and trends. 
 Role: Project Coordinator & Contributor
