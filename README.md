@@ -5,23 +5,25 @@
 
 ### [Video Games Sales Dashboard](https://public.tableau.com/app/profile/amy.dryden/viz/VideoGameSales1980-2020_17121625471550/VideoGamesSalesDashboard)
 This project utilizes Video Games sales data from 1980-2020 and creates an interactive dashboard analyzing sales across different regions, platforms, genres and time periods. 
-Role: Sole Author 
-Tools: Tableau 
+#### Role: Sole Author 
+#### Tools: Tableau 
+
+![dashboard](assets/Video%20Game%20Dashboard.jpg)
 
 ### [Ontario Education Project](https://github.com/acedryden/school_research_project)
 The purpose of this project is to analyze and visualize data on Ontario’s Public and Catholic Schools to explore enrollment and graduation rates and trends. 
-Role: Project Coordinator & Contributor
-Tools: Jupyter Notebook, Python, Pandas, NumPy
+#### Role: Project Coordinator & Contributor
+#### Tools: Jupyter Notebook, Python, Pandas, NumPy
 
 ### [SQL Challenge](https://github.com/acedryden/sql-challenge)
 This project uses data modeling, engineering & analysis to create a database to hold data from 6 tables, import the data and then conduct an analysis using SQL queries. 
-Role: Sole Author
-Tools: Jupyter Notebook, PostGreSQL, QuickDBD
+#### Role: Sole Author
+#### Tools: Jupyter Notebook, PostGreSQL, QuickDBD
 
 ### [NoSQL Challenge](https://github.com/acedryden/nosql-challenge)
 The purpose of this challenge is to import, clean, and analyze restaurant data to gain insights from the raw data.
-Role: Sole Author
-Tools: Jupyter Notebook, Python, NoSQL, MongoDB, Pandas
+#### Role: Sole Author
+#### Tools: Jupyter Notebook, Python, NoSQL, MongoDB, Pandas
 
 ## Work Experience 
 
