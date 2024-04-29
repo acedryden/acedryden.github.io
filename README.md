@@ -1,5 +1,5 @@
 # Data Analyst 
-## Technical Skills: Python, SQL, Tableau, Looker, Big Query 
+## Technical Skills: Python, SQL, Tableau, Google Cloud Platform, Looker Studio, Big Query, Amplitude, SalesForce
 
 ## Projects
 
@@ -12,7 +12,7 @@ This project utilizes Video Games sales data from 1980-2020 and creates an inter
 
 ### [Ontario Education Project](https://github.com/acedryden/school_research_project)
 The purpose of this project is to analyze and visualize data on Ontario’s Public and Catholic Schools to explore enrollment and graduation rates and trends. 
-#### Role: Project Coordinator & Contributor
+#### Role: Project Coordinator & Tableau Developer
 #### Tools: Jupyter Notebook, Python, Pandas, NumPy
 
 ### [SQL Challenge](https://github.com/acedryden/sql-challenge)
