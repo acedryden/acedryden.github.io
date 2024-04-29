@@ -16,6 +16,8 @@ The purpose of this project is to analyze and visualize data on Ontario’s Publ
 **Role:** Project Coordinator & Tableau Developer<br>
 **Tools:** Jupyter Notebook, Python, Pandas, NumPy
 
+![dashboard](assets/schooldash.png)
+
 ### [SQL Challenge](https://github.com/acedryden/sql-challenge)
 This project uses data modeling, engineering & analysis to create a database to hold data from 6 tables, import the data and then conduct an analysis using SQL queries. 
 **Role:** Sole Author
@@ -43,7 +45,7 @@ The purpose of this challenge is to import, clean, and analyze restaurant data t
 ## Education 
 - Certificate, Data Analytics | The University of Toronto (_April 2024_)
 - Certificate, Data Analytics | Cornell University (_August 2020_)
-- Diploma, Hospitality Management | Humber College Institute of Technology and Advanced Learning (_June 2013_)
+- Diploma, Hospitality Management | Humber College (_June 2013_)
 - Bachelor of Music | Queen's University (_May 2011_) 
 
 
