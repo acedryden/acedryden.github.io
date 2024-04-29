@@ -18,6 +18,13 @@ The purpose of this project is to analyze and visualize data on Ontario’s Publ
 
 ![dashboard](assets/schooldash.png)
 
+### [Belly Button Biodiversity](https://github.com/acedryden/belly-button-challenge)
+This project is to explore the Belly Button Biodiversity data set, which catalogs the microbes that colonize human navels, by creating an interactive visualization dashboard. <br>
+**Role:** Sole Author <br> 
+**Tools:** Javascript, D3, Plotly, HTML
+
+![bbdashboard](assets/bbpreview.jpg)
+
 ### [SQL Challenge](https://github.com/acedryden/sql-challenge)
 This project uses data modeling, engineering & analysis to create a database to hold data from 6 tables, import the data and then conduct an analysis using SQL queries. 
 **Role:** Sole Author
