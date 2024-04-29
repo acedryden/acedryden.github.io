@@ -45,7 +45,7 @@ The purpose of this challenge is to import, clean, and analyze restaurant data t
 ## Education 
 - Certificate, Data Analytics | The University of Toronto (_April 2024_)
 - Certificate, Data Analytics | Cornell University (_August 2020_)
-- Diploma, Hospitality Management | Humber College Institute of Technology and Advanced Learning (_June 2013_)
+- Diploma, Hospitality Management | Humber College (_June 2013_)
 - Bachelor of Music | Queen's University (_May 2011_) 
 
 
