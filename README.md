@@ -1,6 +1,6 @@
 # Data Analyst 
 ## Technical Skills: 
-Python, SQL, Tableau, Google Cloud Platform, Looker Studio, Big Query, Amplitude, SalesForce
+Python (Pandas, NumPy, Seaborn, MatplotLib, SciPy, Scikit-Learn, TensorFlow), SQL (MySQL, NOSql, PostgreSQL), Tableau, Google Cloud Platform, Looker Studio, Big Query, Amplitude, SalesForce
 
 ## Projects
 
