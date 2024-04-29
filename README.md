@@ -16,6 +16,8 @@ The purpose of this project is to analyze and visualize data on Ontario’s Publ
 **Role:** Project Coordinator & Tableau Developer<br>
 **Tools:** Jupyter Notebook, Python, Pandas, NumPy
 
+![dashboard](assets/schooldash.png)
+
 ### [SQL Challenge](https://github.com/acedryden/sql-challenge)
 This project uses data modeling, engineering & analysis to create a database to hold data from 6 tables, import the data and then conduct an analysis using SQL queries. 
 **Role:** Sole Author
